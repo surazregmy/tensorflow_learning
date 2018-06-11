@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d49c32a9-74e9-49bb-8504-934ad5cb7adc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f_step_tf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f_step_tf_t1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpanda.py" beforeDir="false" afterPath="$PROJECT_DIR$/tpanda.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="f_step_tf_t1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="f_step_tf_t1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f_step_tf_t1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -33,6 +28,36 @@
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tpanda.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tpanda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tens_begin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tens_begin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -60,6 +85,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -70,6 +96,7 @@
         <option value="$PROJECT_DIR$/f_step_tf.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/f_step_tf_t1.py" />
+        <option value="$PROJECT_DIR$/tens_begin.py" />
       </list>
     </option>
   </component>
@@ -316,12 +343,20 @@
       <workItem from="1528256345744" duration="8867000" />
       <workItem from="1528343261413" duration="14013000" />
       <workItem from="1528429386977" duration="15551000" />
-      <workItem from="1528688318403" duration="3747000" />
+      <workItem from="1528688318403" duration="4020000" />
     </task>
+    <task id="LOCAL-00001" summary="just test">
+      <created>1528703375188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528703375188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50504000" />
+    <option name="totallyTimeSpent" value="50777000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,24 +369,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3294893" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51134646" side_tool="true" visible="true" weight="0.3294893" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="10" sideWeight="0.085995086" side_tool="true" visible="true" weight="0.08472012" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5121029" side_tool="true" visible="true" weight="0.3294893" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="10" sideWeight="0.088452086" side_tool="true" visible="true" weight="0.08472012" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49924356" weight="0.3294893" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7677761" weight="0.3294893" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.48865354" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48789713" visible="true" weight="0.3294893" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="SciView" order="8" sideWeight="0.9140049" visible="true" weight="0.08472012" />
+      <window_info anchor="right" id="SciView" order="8" sideWeight="0.9115479" visible="true" weight="0.08472012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -372,6 +408,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just test" />
+    <option name="LAST_COMMIT_MESSAGE" value="just test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,13 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tpanda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/indexes/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -513,16 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/f_step_tf_t1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -530,6 +553,30 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpanda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tens_begin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
