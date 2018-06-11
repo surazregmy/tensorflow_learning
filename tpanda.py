@@ -30,4 +30,6 @@ city_details['Population density'] = city_details['Population'] / city_details['
 city_details['Is wide and has saint name'] = (city_details['Area square miles'] > 50) & city_details['City name'].apply(lambda name: name.startswith('San'))
 print(city_details)
 
-print(city_details.index)
+# print(city_details.index)
+city_details.reindex(np.random.permutation(city_details.index))
+print(city_details.reindex(np.random.permutation(city_details.index)))
